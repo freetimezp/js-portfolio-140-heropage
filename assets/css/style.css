@@ -144,9 +144,13 @@ nav button {
     border-color: #fff;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
 
-
-
+#flipButton {
+    cursor: pointer;
+}
 
 
 
